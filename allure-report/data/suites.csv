@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3789","API-Testing from Jsonplaceholder","chromium","Sun Aug 24 17:38:01 WAT 2025","passed","Sun Aug 24 17:38:05 WAT 2025","","jsonPlaceHolder.spec.js","",""
+"","4378","Send OTP","chromium","Sun Aug 24 17:38:01 WAT 2025","passed","Sun Aug 24 17:38:05 WAT 2025","","getProduct.spec.js","",""
+"","5898","Send OTP","chromium","Sun Aug 24 17:38:01 WAT 2025","passed","Sun Aug 24 17:38:07 WAT 2025","","sendOtp.spec.js","",""
